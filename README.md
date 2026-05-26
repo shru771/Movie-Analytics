@@ -31,4 +31,4 @@ This project analyzes IMDB movie and director datasets using SQL queries.
 ## Project Screenshots
 
 ### Query Output
-![Screenshots](Screenshots/Screenshot (1).png)
+![Query Output](Screenshots/Screenshot%20(1).png)
